@@ -1,0 +1,8 @@
+#gitignore UE4
+
+
+*.vs
+/CodingRPG/.vs
+/CodingRPG/Library
+
+*.sln
